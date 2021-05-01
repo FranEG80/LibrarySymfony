@@ -1,0 +1,5 @@
+### List all books
+GET http://127.0.0.1:8000/Books
+
+### Adding request param
+GET http://127.0.0.1:8000/Books?title=Fortunata
